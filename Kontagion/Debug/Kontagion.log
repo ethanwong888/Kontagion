@@ -1,0 +1,7 @@
+﻿  Actor.cpp
+  StudentWorld.cpp
+C:\Users\e1234\OneDrive\Desktop\Kontagion\Kontagion\StudentWorld.cpp(570,20): warning C4244: 'argument': conversion from 'double' to 'Direction', possible loss of data
+C:\Users\e1234\OneDrive\Desktop\Kontagion\Kontagion\StudentWorld.cpp(582,19): warning C4244: 'argument': conversion from 'double' to 'Direction', possible loss of data
+  Generating Code...
+C:\Users\e1234\OneDrive\Desktop\Kontagion\Kontagion\StudentWorld.cpp(594,19): warning C4244: 'argument': conversion from 'double' to 'Direction', possible loss of data
+  Kontagion.vcxproj -> C:\Users\e1234\OneDrive\Desktop\Kontagion\Debug\Kontagion.exe
